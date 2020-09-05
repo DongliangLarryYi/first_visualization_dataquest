@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep  2 20:18:29 2020
-
-@author: larry
+display gender gap in college degrees
 """
 
 import pandas as pd
